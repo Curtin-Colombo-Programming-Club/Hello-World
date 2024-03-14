@@ -41,7 +41,7 @@ or
 
 High-Level programming languages are farther away from the machine language than Low-Level languages.
 
-With a programming language, humans can write instructions for a computer to run in a “human readable format” called the SOURCE CODE.
+With a programming language, humans can write instructions for a computer to run in a “human-readable format” called the SOURCE CODE.
 
 This source code is then translated into binary using translators such as Interpreters, Compilers or Assemblers so that the computer can understand it.
 
@@ -49,7 +49,7 @@ This source code is then translated into binary using translators such as Interp
 
 If you haven’t given enough thought to it, I’d suggest you start now. Think about why YOU want to code in the first place.
 
-Understanding your motivations will help you determine which programming language to start off with, what sorts of projects you want to complete, and ultimately, what you want to make of your skills.
+Understanding your motivations will help you determine which programming language to start with, what sorts of projects you want to complete, and ultimately, what you want to make of your skills.
 
 A few general uses of coding are that it can help you develop your professional skills. Even if you aren’t pursuing a purely technical coding career, it’ll help you gain the ability to grasp abstract concepts and help in problem-solving.
 
@@ -71,11 +71,11 @@ While it can be used as a basic way to illustrate working syntax for a program, 
 ## So how do you start your coding journey?
 ### STEP 1: FIGURE OUT WHY YOU WANT TO CODE
 
-if you don’t have an end goal, you may become frustrated and stop learning before you get to the fun.
+If you don’t have an end goal, you may become frustrated and stop learning before you get to the fun.
 
-I want you to think about why you want to know how to code. Think about the projects you want to complete, why this skill excites you, and what resources you have available.
+Think about WHY you want to know how to code. Think about the projects you want to complete, why this skill excites you, and what resources you have available.
 
-For example, say you want to become a developer to earn more income for your family. Do you know where you want to work and what projects they need developers for? Are you ready to put in the time to learn to code, learn the right programming languages, and build projects that show you have what it takes?
+For example, say you want to become a developer to earn more income for your family. Would you happen to know where you want to work and what projects they need developers for? Are you ready to put in the time to learn to code, learn the right programming languages, and build projects that show you have what it takes?
 
 Setting broad goals can be overwhelming so start with smaller, more specific goals. For example, say you want to build a mobile app for your friend who is training for a half-marathon one year from now.
 
@@ -86,20 +86,20 @@ This goal will:
 
 ### STEP 2: PICK A LANGUAGE TO LEARN
 
-Think about long term goals;
+Think about long-term goals;
 1.	Are you coding for fun?
 2.	For work or study?
 3.	Do you have a flexible timeline
 
-Languages like Python, java, HTML and CSS are beginner friendly, have a great supporting community and have a range of applications. Perfect for starting off.
+Languages like Python, java, HTML and CSS are beginner-friendly, have a great supporting community and have a range of applications. Perfect for starting off.
 
 ### STEP 3: START LOOKING INTO ONLINE COURSES AND YOUTUBE TUTORIALS
 
 Of course, you have your uni classes to learn and work on.
 
-But also take the time to delve into the many fun and interactive tutorials and classes that are offered free    of charge on the internet.
+But also take the time to delve into the many fun and interactive tutorials and classes that are offered free of charge on the internet.
 
-Start small work on the basics and move upwards from there.
+Start working on the basics and move upwards from there.
 
 A few great places to check out free online courses are sites like
 * freeCodeCamp
@@ -110,7 +110,7 @@ A few great places to check out free online courses are sites like
 ### STEP 4: LEARN TOOLS TO MAKE YOUR CODING EASIER
 #### Code editors
 
-Are basically the bread and butter of modern coders. Familiarise yourself with code editors like VS Code because they can help you write clean code faster. 
+Code editors and IDEs are the bread and butter of modern coders. Familiarise yourself with code editors like VS Code because they can help you write clean code faster. 
 
 They also have additional perks such 
 * Syntax highlighting
@@ -146,18 +146,18 @@ There are also loads of beginner programming projects you can try independently.
 
 As you progress, you’ll probably encounter issues that, no matter how hard you try, you just can’t crack. This is where a good community or a mentor can help.
 
-Programmers are like-minded people and we are all always learning so don’t be afraid to ask questions, get feedback and make connections with others.
+Programmers are like-minded people and we're always learning so don’t be afraid to ask questions, get feedback and make connections with others.
 
 Be sure to check out 
 * Stack Overflow, a forum site for programming questions and discussion.
 * GitHub, a code repository for open-source projects with an active developer community.
-* r/learnprogramming, a subreddit (a microsite on Reddit.com) for beginner coders.
+* r/learnprogramming, a subreddit for beginner coders.
 
 ## SOME FINAL TIPS
 1.	Be patient with yourself
 2.	Get comfortable with the fundamentals 
 3.	Write clean code
-4.	Use your community, google and chatgpt (not for hard problem solving!)
+4.	Use your community, Google and ChatGPT (not for hard problem-solving!)
 
 ## FINAL THOUGHTS
 
@@ -168,4 +168,6 @@ It is about problem solving and more often than not you will spend a lot more ti
 Learning to code is learning to think as computers do, deconstruct problems into their components, and address them with the tools you’re given.
 
 Develop your thinking skills, work hard and eventually you will be able to write some impressive code and build amazing projects!
+
+Good luck on your coding journey!!
 
